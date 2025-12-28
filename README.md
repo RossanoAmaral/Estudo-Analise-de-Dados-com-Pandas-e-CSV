@@ -21,3 +21,20 @@ Ele oferece opções para visualizar os dados completos ou filtrar colunas espec
 O programa espera um arquivo chamado:
 
 
+com colunas como:
+
+| Produto | Vendas | Preço | Categoria |
+|--------|--------|-------|-----------|
+
+Ajuste os nomes no código caso seu CSV seja diferente.
+
+---
+
+## 📦 Instalação
+
+1️⃣ Clone ou baixe o projeto.  
+2️⃣ Instale as dependências:
+
+```bash
+pip install pandas colorama
+
